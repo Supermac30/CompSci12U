@@ -11,11 +11,8 @@ public class Digits {
 }
 /*
 *
-
     Enter a three-digit number:  267
     The ones-place digit is: 7
     The tens-place digit is: 6
     The hundreds-place digit is: 2
-
-
 * */
